@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+  }
+  
+  html {
+    background: #faf7f2;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG6CjEW3vFeV5RXWpl-4YR_8XrbUhb-M9b-w&usqp=CAU);
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .navbar{
+    text-align: center;
+
+  }
+  .btn-grp{
+    width: 140px;
+    height: 40px;
+    color: white;
+    background-color: darkblue;
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+  }
